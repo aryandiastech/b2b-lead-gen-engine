@@ -59,6 +59,6 @@ cd frontend
 streamlit run app_gui.py
 ```
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 This system will soon be infused with advanced **Marketing Automation** modules to seamlessly convert extracted targets into automated outreach campaigns.
 
